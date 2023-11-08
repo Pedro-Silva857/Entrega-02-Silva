@@ -1,0 +1,11 @@
+.Categorias {
+        justify-self: start;
+        color: aquamarine;
+        margin-top: 4vh;
+        cursor: pointer;
+}
+.NavBar {
+    position: sticky;
+    z-index: 3;
+    top: 0;
+}
